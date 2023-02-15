@@ -1,11 +1,11 @@
 ---
 title: "My Experience with eJPT Certification"
 date: 2023-02-15T00:36:05+05:30
-thumbnail: https://miro.medium.com/v2/resize:fit:618/format:webp/0*8zhGsrwVCVBLNY2h.png
+thumbnail: /Images/ejpt_review.png
 draft: false
 
 ---
-
+</br></br>  
 Author: Lalith Kumar
 
 ![eJPT PNG](https://miro.medium.com/v2/resize:fit:618/format:webp/0*8zhGsrwVCVBLNY2h.png)
