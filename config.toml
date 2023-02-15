@@ -12,7 +12,7 @@ DefaultContentLanguageInSubdir = true
     languageName = "English"
     [languages.en.params]
       introTitle = "Hey! I'm LexiLominite"
-      introSubtitle = "18 y/o kid who in the name of Securing companies wants to Hack them.I'm also a former National level Archery athlete" 
+      introSubtitle = "18 y/o kid who in the name of Securing companies wants to Hack them.I'm also a former National level Archery athlete. Want to know more about me? Check the about section 🙂" 
       introPhoto = "/Images/picture.jpg"
       
     [[languages.en.menu.main]]
