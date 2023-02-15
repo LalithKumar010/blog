@@ -5,7 +5,7 @@ author: "Lalith Kumar"
 description: "A Little Introduction about me !"
 tags: ["Me","about","certs","history"]
 draft: false
-thumbnail: ../../picture.jpg
+thumbnail: /Images/picture.jpg
 ---
 
 
