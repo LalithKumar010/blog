@@ -2,6 +2,7 @@
 title: "Review on eLearnSecurity Certified Professional Penetration Tester! (eCPPTv2) Certification"
 Author: "Lalith Kumar"
 date: 2023-02-15T16:22:38+05:30
+tags: ["certifications","ecpptv2","eLearnSecurity"]
 thumbnail: /Images/ecppt_review.png
 draft: false
 ---

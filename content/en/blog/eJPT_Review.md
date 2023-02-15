@@ -1,6 +1,7 @@
 ---
 title: "My Experience with eJPT Certification"
 date: 2023-02-15T00:36:05+05:30
+tags: ["eJPT","eLearnSecurity"]
 thumbnail: /Images/ejpt_review.png
 draft: false
 

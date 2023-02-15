@@ -1,6 +1,7 @@
 ---
 title: "Certifications"
 date: 2023-02-15T14:36:39+05:30
+tags: ["certifications","certs","eJPT","eWPT","eCPPTv2","CRTP"]
 draft: false
 ---
 
@@ -11,6 +12,9 @@ draft: false
 ![eCPPTv2 Logo](/Images/ecpptv2_logo.jpeg)
 
 eCPPTv2 (eLearnSecurity Certified Professional Penetration Tester) is an intermediate level certification that covers penetration testing methodologies and tools. The exam requires hands-on experience in performing penetration tests and includes a virtual penetration test to assess practical skills.
+
+
+[Here is my eCPPTv2 Review. Check it if you are interested !](https://lalithkumar010.com/blog/ecpptv2_review/)
 
 ### eWPT
 
@@ -24,6 +28,8 @@ eWPT (eLearnSecurity Web application Penetration Tester) is an advanced level ce
 
 eJPT (eLearnSecurity Junior Penetration Tester) is an entry-level certification that covers the basics of penetration testing and ethical hacking. The exam includes a practical assessment of penetration testing skills and knowledge of tools and techniques.
 
+[Here is my eJPT Review. Check it if you are interested !](https://lalithkumar010.com/blog/ejpt_review/)
+
 ### CRTP
 
 ![CRTP Logo](/Images/crtp_logo.jpeg)
@@ -35,7 +41,7 @@ CRTP (Certified Red Team Professional) is an advanced-level certification that c
 
 ![PNPT Logo](/Images/pnpt_logo.jpeg)
 
-PNPT (Practical Network Penetration Tester) is an intermediate-level certification that covers the skills and knowledge required to perform network penetration testing. The exam requires hands-on experience in network penetration testing and includes a practical assessment of network penetration testing skills.
+PNPT (Practical Network Penetration Tester) is an intermediate-level certification that covers the skills and knowledge required to perform network penetration testing. The exam requires hands-on experience in network penetration testing and includes a practical assessment of network penetration testing skills. It involves Website Enumeration, Active Directory 
 
 
 ##  My Certificates
