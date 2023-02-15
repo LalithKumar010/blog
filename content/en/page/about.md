@@ -48,6 +48,8 @@ If you want to follow up with me or know more about me please check my social me
 
 
 My Social Media Links: 
+
+- Youtube: [Subscribe To My Channel !](https://youtube.com/@lexilominite)
 - Instagram: [https://instagram.com/LexiLominite](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHM5emxGS1BsbzdwWnI3d2UyR0Y2cF9yTWszUXxBQ3Jtc0trNnN1TDUza3U3cFZyMnlmUWx0bzNxNnJrMk5SSkZYeHNrekZqcWdqaDlOeE1pMGZMN2dkc2RsdmNmbnowRDZEaUE2UkRkU0tCMzNWZC1zUUhWeWJGbnYwVXIwUE9TU3o5bGdPOFlIS3llT2tpemVjOA&q=https%3A%2F%2Finstagram.com%2FLexiLominite&v=vZbKlz7zSW4)
 - Twitter: [https://twitter.com/LexiLominite](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazlpQTRSMTEybE9OeEwwMU9nMDZPM2NfRWpKUXxBQ3Jtc0ttZDU1dmh2X0c0ZTZoR1A2U1lvWkhtRzhibllDRkpHVHgyUDhqUWlCN1dQeHcwbXJ1Y28tTUZ4OUVDU3U4eTN4X2lKVkNwN093N05iS0RlZ0o5M09iYXhrdFhnb3RpZkZDSmlNQmhQbFZrUWZGTHFURQ&q=https%3A%2F%2Ftwitter.com%2FLexiLominite&v=vZbKlz7zSW4) 
 - LinkedIn: [https://linkedin.com/in/LexiLominite](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTJ3RXhEN3VMT1Q1ZzRJTkJEdnNmNWRmMXdEZ3xBQ3Jtc0traDI3el81WS1hSjRsTWZ0ZDVpemhHNHFiZmVvcFVmQkdtSll1N2R1U25UU1hNS0JaQ3FBVTA1ZVRHZzBqMlZUSzE4Vk01TVpxUDV1S1JqQnJZRGtsczNNNHhfaXFOQVJPVGRNS1k3UndhUGRnTktzNA&q=https%3A%2F%2Flinkedin.com%2Fin%2FLexiLominite&v=vZbKlz7zSW4)
