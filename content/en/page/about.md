@@ -31,10 +31,10 @@ So to know more about me you can see [My Portfolio](https://lalithkumar010.com)
 </br>
 </br>
 ## Why I'm starting this blog ?
-So the main concept will be Technology. All the blogs here will be related to technology and will be a little more specific to CyberSecurity. I hope you will enjoy this :-)
+I started my OSCP Journey and I want to document it. To be honest I really dont know if I will be active but still I'm giving it a try. And also all the other blogs here will be related to technology and will be a little more specific to CyberSecurity. I hope you will enjoy this :-)
 </br>
 ### Why I chose blog than videos?
-- Youtube  needs a lot of editing and it is very time consumption and also you cant comfortable can not make video whenever / wherever you want.
+- Youtube needs a lot of editing and it is very time consumption and also you cant comfortably make video whenever / wherever you want. Especially when you are in hostel 🥲
 - To allow readers to read at their own pace. People might feel a problem with the videos because they go and proceed at their own pace. So atleast for some people I hope this will be usable 
 - How many of you think it would be so nice if you can click F3 button and search entire video ? So many right so this blog can be searchable and can help you to utilise your time in your own pace and own need. 
 - This is a markdown based blog. I like to take notes in a markdown format probably even many of you do the same. I liked the concept of being able to write a blog in a MarkDown Format. It is very interesting 
