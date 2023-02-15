@@ -12,7 +12,7 @@ DefaultContentLanguageInSubdir = true
     languageName = "English"
     [languages.en.params]
       introTitle = "Hey! I'm LexiLominite"
-      introSubtitle = "18 y/o kid who in the name of Securing companies wants to Hack them. Former National level Archery athlete" 
+      introSubtitle = "18 y/o kid who in the name of Securing companies wants to Hack them.I'm also a former National level Archery athlete" 
       introPhoto = "/Images/picture.jpg"
       
     [[languages.en.menu.main]]
@@ -93,19 +93,23 @@ DefaultContentLanguageInSubdir = true
 [params.comments]
   # Supports disqus, giscus and utterances
   # Check hugo docs for setting up disqus
-  system = "giscus"
+  system = "discus" 
+  disqusShortname = 'lexilominite'
+
+[params.disqus]
+  shortname = 'lexilominite'
 
   # Options for giscus, exclude hyphens
-  repo = ""
-  repoid = ""
-  category = ""
-  categoryid = ""
-  mapping = ""
-  strict = ""
-  reactionsenabled = ""
-  emitmetadata = ""
-  inputposition = ""
-  theme = ""
+  #repo = ""
+  #repoid = ""
+  #category = ""
+  #categoryid = ""
+  #mapping = ""
+  #strict = ""
+  #reactionsenabled = ""
+  #emitmetadata = ""
+  #inputposition = ""
+  #theme = ""
 
   # Options for utterances, exclude hyphens
   # repo = ""
@@ -115,7 +119,7 @@ DefaultContentLanguageInSubdir = true
 [params.homepage.social]
   # Global params common for both languages
   title = "Follow me"
-  description = "I play and participate in CTFs"
+  description = "I also play and participate in CTFs and other Challenges.."
 
   [[params.homepage.social.icons]]
     website = "twitter"
@@ -123,9 +127,6 @@ DefaultContentLanguageInSubdir = true
   [[params.homepage.social.icons]]
     website = "linkedin"
     url = "https://linkedin.com/in/LexiLominite"
-  [[params.homepage.social.icons]]
-    website = "xing"
-    url = "https://www.xing.com/profile/"
   [[params.homepage.social.icons]]
     website = "telegram"
     url = "https://t.me/LexiLominite"
@@ -172,6 +173,9 @@ DefaultContentLanguageInSubdir = true
 #  [[params.homepage.social.icons]]
 #    website = "behance"
 #    url = "https://behance.net"
+#  [[params.homepage.social.icons]]
+#    website = "xing"
+#    url = "https://www.xing.com/profile/"
 
 [[menu.main]]
   name = "About"
