@@ -1,6 +1,6 @@
-baseurl = "https://lalithkumar010.com"
+baseurl = "http://lalithkumar010.com"
 metaDataFormat = "yaml"
-title = "LexiLominite's Blog"
+title = "( : : ( ) : : )"
 theme = "blist"
 
 DefaultContentLanguage = "en"
@@ -12,8 +12,8 @@ DefaultContentLanguageInSubdir = true
     languageName = "English"
     [languages.en.params]
       introTitle = "Hey! I'm LexiLominite"
-      introSubtitle = "I am a Passionate Ethical Hacker with 2 years of learning experience ;-). I have done a few Certifications like eCPPT, eWPT, eJPT from eLearnSecurity, and CRTP from Pentester Academy."
-      introPhoto = "/picture.jpg"
+      introSubtitle = "18 y/o kid who in the name of Securing companies wants to Hack them. Former National level Archery athlete" 
+      introPhoto = "/Images/picture.jpg"
       
     [[languages.en.menu.main]]
         name = "Blog"
@@ -31,9 +31,13 @@ DefaultContentLanguageInSubdir = true
         weight = 3
 
     [[languages.en.menu.main]]
-        name = "Top Post"
-        url = "/en/blog/emoji-support/"
+        name = "Experience"
+        url = "page/experience/"
         weight = 4
+    [[languages.en.menu.main]]
+        name = "Certifications"
+        url = "page/certifications/"
+        weight = 5
 
 [params]
   # Enable the darkmode toggle in header
@@ -57,7 +61,7 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2021 - Katheryn Fox · All rights reserved"
+  copyright = "No Copyright © 2023 - LexiLominite · Feel Free to use it ;-)"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
@@ -139,7 +143,7 @@ DefaultContentLanguageInSubdir = true
     url = "https://reddit.com/LexiLominite"
   [[params.homepage.social.icons]]
     website = "youtube"
-    url = "https://youtube.com/@lexilominite"
+    url = "https://youtube.comkathlexilominite"
   [[params.homepage.social.icons]]
     website = "instagram"
     url = "https://instagram.com/LexiLominite"
